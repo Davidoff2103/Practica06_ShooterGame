@@ -1,3 +1,12 @@
+setTimeout( function ()
+{
+    document.getElementById( 'loader' ).style.transform = "scale(0)";
+    var game;
+    game = new Game();
+    game.start();
+    
+}, 4000 );
+
 const OPPONENT_HEIGHT = 5,
     OPPONENT_PICTURE = "assets/malo.png",
     OPPONENT_PICTURE_DEAD = "assets/malo_muerto.png",
@@ -36,8 +45,8 @@ function collision( div1, div2 ) {
     return !( a.bottom < b.top || a.top > b.bottom || a.right < b.left || a.left > b.right );
 
 }
-var game;
-document.addEventListener( "DOMContentLoaded", () => {
-    game = new Game();
-    game.start();
-} );
+// var game;
+// document.addEventListener( "DOMContentLoaded", () => {
+//     game = new Game();
+//     game.start();
+// } );
