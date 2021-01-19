@@ -7,15 +7,17 @@ html {
 	background-attachment: fixed;
 
 }
-img{
+
+img {
 	position: relative;
 	top: 0%;
 	right: -60%;
 }
 
-img:hover{
-	filter:brightness(150%);
+img:hover {
+	filter: brightness(150%);
 }
+
 body li {
 	margin-left: 10%;
 }
