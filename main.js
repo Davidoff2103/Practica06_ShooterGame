@@ -5,7 +5,7 @@ setTimeout( function ()
     game = new Game();
     game.start();
     
-}, 4000 );
+}, 3000 );
 
 const OPPONENT_HEIGHT = 5,
     OPPONENT_PICTURE = "assets/malo.png",
