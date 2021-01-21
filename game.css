@@ -8,13 +8,14 @@ html {
 	font-family: 'Bebas Neue';
 }
 
-img {
-	position: relative;
-	top: 0%;
-	right: -63%;
+.logo {
+	margin: 5px;
+	position: absolute;
+	top: 0;
+	right: 0;
 }
 
-img:hover {
+.logo:hover {
 	filter: brightness(150%);
 }
 
@@ -29,9 +30,9 @@ ul {
 	height: 40px;
 	width: 285px;
 	padding: 5px;
-	position: relative;
-	top: -60px;
-	right: -0px;
+	position: absolute;
+	top: 40px;
+	left: 3;
 }
 
 ul:hover {
@@ -75,11 +76,7 @@ ul:hover {
 
 body button {
 	border-radius: 5px;
-	position: relative;
-	top: -55px;
-	right: 0px;
 }
-
 body button:hover {
 	background-color: blue;
 	border-radius: 10px;
@@ -208,4 +205,11 @@ body button:hover {
 	100% {
 		transform: rotate(360deg);
 	}
+}
+
+.botones{
+	position: absolute;
+	left: 0;
+	top: 0;
+	padding: 8px;
 }
