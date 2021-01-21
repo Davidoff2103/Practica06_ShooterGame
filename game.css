@@ -56,7 +56,8 @@ ul:hover {
 		transform: rotate(0deg);
 		-webkit-transform: rotate(0deg);
 	}
-
+}
+@keyframes rotation{
 	to {
 		transform: rotate(359deg);
 		-webkit-transform: rotate(359deg);
