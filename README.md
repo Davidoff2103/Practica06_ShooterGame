@@ -1,4 +1,4 @@
-<img  align="right" width="150" style="float: right; background-color:blue;" src="https://github.com/Davidoff2103/Practica04_Calculadora/blob/main/imagenes/we%20domotics.jpg?raw=true">
+<img  align="right" width="150" style="float: right;" style="background-color:blue;" src="https://github.com/Davidoff2103/Practica04_Calculadora/blob/main/imagenes/we%20domotics.jpg?raw=true">
 
 <br/><br/><br/>
 
