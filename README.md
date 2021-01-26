@@ -1,4 +1,4 @@
-<img  align="right" width="150" style="float: right;" style="background-color:blue;" src="https://github.com/Davidoff2103/Practica04_Calculadora/blob/main/imagenes/we%20domotics.jpg?raw=true">
+<img align="right" style="float: right;" src="https://github.com/Davidoff2103/Practica06_ShooterGame/blob/main/assets/Logo%20WE%20color.png?raw=true">
 
 <br/><br/><br/>
 
@@ -13,7 +13,7 @@ Practicar con clases, Booleans, Strings y con el manejo de eventos.
 
 ## Descripción de la práctica
 
-Este proyecto consiste en desarrollar un juego clásico de disparos usando HTML, CSS y JavaScript. En él manejaremos a nuestro personaje (Mario de Fuego) utilizando las flechas del teclado o la pantalla táctil. El objetivo del juego es disparar a una serie de rivales (Goombas) que aparecerán en la pantalla para eliminarlas, a la vez que esquivamos sus disparos. Tras haber eliminado a todos los Goombas, llegará Bowser, que se mueve más rápido y es más difícil de batir.
+Este proyecto consiste en desarrollar un juego clásico de disparos usando HTML, CSS y JavaScript. En él manejaremos a nuestro personaje (Mario de Fuego) utilizando las flechas del teclado o la pantalla táctil. El objetivo del juego es disparar a una serie de rivales (Goombas) que aparecerán en la pantalla para eliminarlos, a la vez que esquivamos sus disparos. Tras haber eliminado a todos los Goombas, llegará Bowser, que se mueve más rápido y es más difícil de batir. Todo esto lo tendremos que conseguir con tres vidas, que disminuirán cada vez que recibamos un disparo o que contactemos con los personajes rivales.
 
 <p align="center">
   <img src="https://github.com/Davidoff2103/Practica06_ShooterGame/blob/main/assets/bueno.png?raw=true">
