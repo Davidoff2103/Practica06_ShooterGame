@@ -17,4 +17,5 @@ Este proyecto consiste en desarrollar un juego clásico de disparos usando HTML,
 
 <p align="center">
   <img src="https://github.com/Davidoff2103/Practica06_ShooterGame/blob/main/assets/bueno.png?raw=true">
+  <img src="https://github.com/Davidoff2103/Practica06_ShooterGame/blob/main/assets/malo.png?raw=true">
 </p>
